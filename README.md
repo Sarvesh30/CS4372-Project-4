@@ -18,7 +18,7 @@ All text was scraped publicly from the link: https://www.gutenberg.org/cache/epu
 4) Fine-Tuned Transformer with LoRA
    - The Q&A pairs were utilizied in fine-tuning the DistilledBERT pre-trained model with LoRA
    - The fine-tuned transformer was evaluated using EM, F1, and sentiment scores.
-5) Hypertuning the Fine-Tuned Transformer (IN PROGRESS)
+5) Hypertuning the Fine-Tuned Transformer (FURTHER IMPROVEMENT)
    - The fine-tuned transformer is being hypertuned with learning rate and LoRA parameters to strengthen model performance
 
 
