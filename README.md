@@ -1,7 +1,6 @@
 # CS4372-Project-4
 
-The code can be run with 'Assignment 4 Code CS 4372 Final Submission.ipynb'
-All text was scraped publicly from the link: https://www.gutenberg.org/cache/epub/1513/pg1513.txt
+The code can be run with 'Assignment 4 Code CS 4372 Final Submission.ipynb'. All text was scraped publicly from the link: https://www.gutenberg.org/cache/epub/1513/pg1513.txt
 
 1) Import Modules and Load/Clean Data
    - In this project, we used the following notable modules:
